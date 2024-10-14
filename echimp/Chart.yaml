@@ -3,4 +3,4 @@ appVersion: 1-alpine3.17
 description: A Helm chart for Kubernetes
 name: echimp
 type: application
-version: 1.1.2
+version: 1.1.1
