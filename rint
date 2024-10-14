@@ -1,0 +1,8 @@
+	# gawk profile, created Mon Oct 14 19:26:55 2024
+
+	# Rule(s)
+
+    88  {
+    88  	$1
+	}
+
